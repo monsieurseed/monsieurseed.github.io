@@ -12,7 +12,7 @@ This questionnaire-based survey investigates the role of age in affecting the ex
 
 # How Age Affects the Second- and Third-Level Digital Divide: A Research Based on a Questionnaire-Based Survey
 
-<iframe src="https://drive.google.com/file/d/17QbOhB_9AULoWDSIQ96s2qFjPBivRirT/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/17QbOhB_9AULoWDSIQ96s2qFjPBivRirT/preview" width="100%" height="400" allow="autoplay"></iframe>
 
 
 
