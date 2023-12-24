@@ -1,8 +1,8 @@
 ---
 title: "My Past Paper: How Age Affects the Second- and Third-Level Digital Divide: A Research Based on a Questionnaire-Based Survey"
-date: 2023-12-24 21:39:S00 0800
+date: 2023-12-24 21:39:000 0800
 categories: [Academic]
-tags: [computational sociology, ]
+tags: [computational sociology]
 ---
 
 # Abstract
@@ -10,6 +10,8 @@ This questionnaire-based survey investigates the role of age in affecting the ex
 
 *Keywords:* digital divide, age, questionnaire-based survey, regression analysis, intermediary effect analysis.
 
-
-
+# How Age Affects the Second- and Third-Level Digital Divide: A Research Based on a Questionnaire-Based Survey
+On page 191
+<embed src="http://user.yuanpeiyoungscholars.com/pdf/YoungScholarsAcademicJournal_final5" width="700" height="600" 
+ type="application/pdf">
 
